@@ -138,7 +138,7 @@ class Usercontroller extends Controller
                 "email" => $validated->email,
                 "social" => $validated->social,
                 "user_name_email" => $validated->user_name_email,
-                "password" => $validated->password,
+                "socail_password" => $validated->password,
             ]);
             if ($result) {
 
