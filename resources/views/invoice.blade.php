@@ -318,7 +318,7 @@
       <p> Primeoption PRO Verify </p>
       <p> No. 357/18 (the ‘Company’). </p>
       <p> 62 Athalassas Avenue, Strovolos, </p>
-      <p> Support@primeoptionpro.online</p>
+      <p> Support@primeoptionpro.live</p>
     </address>
     <span><img alt="Logo" width="200" height="100" src="{{ URL('assets/logo/logo.png') }}"></span>
   </header>
